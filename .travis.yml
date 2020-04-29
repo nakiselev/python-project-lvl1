@@ -5,5 +5,12 @@ python:
   - 3.7
   - 3.8
 
-lint:
-  make lint
+before_install:
+  # make depends on poetry
+  - pip install poetry
+
+install:
+  - make install
+
+script:
+  - make lint
