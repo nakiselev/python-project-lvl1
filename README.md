@@ -5,4 +5,4 @@
 
 Brain Even
 
-a href="https://asciinema.org/a/1PUfAkITT1sy5gXo8XmOuA4jV" target="_blank"><img src="https://asciinema.org/a/1PUfAkITT1sy5gXo8XmOuA4jV.svg" /></a>
+[![asciicast](https://asciinema.org/a/1PUfAkITT1sy5gXo8XmOuA4jV.svg)](https://asciinema.org/a/1PUfAkITT1sy5gXo8XmOuA4jV)
