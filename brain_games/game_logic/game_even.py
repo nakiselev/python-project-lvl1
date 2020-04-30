@@ -21,7 +21,8 @@ def game():
             true_answer += 1
             print('Correct!')
         else:
-            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(answer, correct_answer))
+            print("'{}' is wrong answer ;(.".format(answer), end='')
+            print("Correct answer was '{}'.".format(correct_answer))
             print("Let's try again, {}".format(name))
             return
     print('Congratulations')
