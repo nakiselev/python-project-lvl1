@@ -10,3 +10,8 @@ brain even
 brain calc
 
 [![asciicast](https://asciinema.org/a/gLLxGK6nHj7OTHaC53eZnowDW.svg)](https://asciinema.org/a/gLLxGK6nHj7OTHaC53eZnowDW)
+
+
+brain gcd
+
+[![asciicast](https://asciinema.org/a/kufeZxrIBGqF5kvVHwxCwFv5V.svg)](https://asciinema.org/a/kufeZxrIBGqF5kvVHwxCwFv5V)
