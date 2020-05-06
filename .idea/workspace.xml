@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38250498-5061-4bd4-9dae-be7f140c18b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/brain_games/game_logic/game_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/game_logic/game_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="38250498-5061-4bd4-9dae-be7f140c18b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
