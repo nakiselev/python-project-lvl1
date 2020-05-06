@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nakiselev92_brain_games"
-version = "0.1.8"
+version = "0.1.9"
 description = "This first project"
 authors = ["Nikita Kiselev <nakisele92@gmail.com>"]
 packages = [
