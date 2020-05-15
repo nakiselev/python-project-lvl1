@@ -1,7 +1,7 @@
 # python-package
 
 [![Build Status](https://travis-ci.com/nakiselev/python-project-lvl1.svg?branch=master)](https://travis-ci.com/nakiselev/python-project-lvl1)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4603cd3155575fbdd9da/maintainability)](https://codeclimate.com/github/nakiselev/python-project-lvl1/maintainability)
 
 ## description
 
