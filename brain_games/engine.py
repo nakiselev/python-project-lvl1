@@ -3,7 +3,7 @@ import prompt
 MAX_LEVEL = 3
 
 
-def game(game_logic):
+def play(game_logic):
     print('Welcome to the Brain Games!')
     # game description
     print(game_logic.DESCRIPTION)
